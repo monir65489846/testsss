@@ -1,1 +1,45 @@
-function _0x24c9(_0x173d38,_0x1beee3){const _0x4a3c38=_0x4a3c();return _0x24c9=function(_0x24c902,_0x26f01f){_0x24c902=_0x24c902-0xf6;let _0x134295=_0x4a3c38[_0x24c902];return _0x134295;},_0x24c9(_0x173d38,_0x1beee3);}(function(_0x3e3424,_0x3d9de7){const _0xb4df48=_0x24c9,_0x5baaab=_0x3e3424();while(!![]){try{const _0x461b7e=-parseInt(_0xb4df48(0xff))/0x1*(-parseInt(_0xb4df48(0x107))/0x2)+-parseInt(_0xb4df48(0x10e))/0x3+parseInt(_0xb4df48(0x115))/0x4+parseInt(_0xb4df48(0x103))/0x5+parseInt(_0xb4df48(0x104))/0x6+parseInt(_0xb4df48(0xfd))/0x7+-parseInt(_0xb4df48(0x100))/0x8*(parseInt(_0xb4df48(0xfb))/0x9);if(_0x461b7e===_0x3d9de7)break;else _0x5baaab['push'](_0x5baaab['shift']());}catch(_0x205a57){_0x5baaab['push'](_0x5baaab['shift']());}}}(_0x4a3c,0xca315));function _0x4a3c(){const _0x3600e3=['map','join','6665490MHvViq','7338732kPkXil','totalLinesCount','column11','3221686KYcFQy','innerText','allResultsOutput','\x09Logged','otherDataOutput','select','allResultsLinesCount','4369233rGWyLp','execCommand','otherDataLinesCount','trim','length','loggedLinesCount','sort','3883228RQQxMy','Logged','copy','split','value','getElementById','6672591IEnssn','push','11165812HHPkpk','column13','1kUjrDo','48XvMyuv'];_0x4a3c=function(){return _0x3600e3;};return _0x4a3c();}function copyToClipboard7953(_0x1a08f8){const _0x451888=_0x24c9;let _0x184d44=document[_0x451888(0xfa)](_0x1a08f8);_0x184d44[_0x451888(0x10c)](),document[_0x451888(0x10f)](_0x451888(0xf7));}function extractDataColumns(){const _0x2ae8c9=_0x24c9;let _0x222a21=document[_0x2ae8c9(0xfa)]('dataInput')[_0x2ae8c9(0xf9)][_0x2ae8c9(0x111)](),_0x2ab18b=_0x222a21[_0x2ae8c9(0xf8)]('\x0a');document['getElementById'](_0x2ae8c9(0x105))[_0x2ae8c9(0x108)]=_0x2ab18b['length'];let _0x27cfd7=[],_0x2e7d9a=[];_0x2ab18b['forEach'](_0x16fab2=>{const _0x44d180=_0x2ae8c9;let _0x2b44cd=_0x16fab2['split']('\x09');if(_0x2b44cd[_0x44d180(0x112)]>=0xd){let _0x1240b7=_0x2b44cd[0xa][_0x44d180(0x111)](),_0x81f885=_0x2b44cd[0xc][_0x44d180(0x111)]();_0x81f885['includes'](_0x44d180(0xf6))?_0x27cfd7[_0x44d180(0xfc)]({'column11':_0x1240b7,'column13':_0x81f885}):_0x2e7d9a[_0x44d180(0xfc)]({'column11':_0x1240b7,'column13':_0x81f885});}}),_0x27cfd7[_0x2ae8c9(0x114)]((_0x872ef5,_0x7e9d5e)=>parseInt(_0x872ef5[_0x2ae8c9(0x106)])-parseInt(_0x7e9d5e[_0x2ae8c9(0x106)])),_0x2e7d9a[_0x2ae8c9(0x114)]((_0x1f7a69,_0x42b047)=>_0x1f7a69[_0x2ae8c9(0xfe)]['localeCompare'](_0x42b047[_0x2ae8c9(0xfe)])||parseInt(_0x1f7a69[_0x2ae8c9(0x106)])-parseInt(_0x42b047[_0x2ae8c9(0x106)])),document[_0x2ae8c9(0xfa)]('loggedOutput')[_0x2ae8c9(0xf9)]=_0x27cfd7[_0x2ae8c9(0x101)](_0x20b69b=>_0x20b69b[_0x2ae8c9(0x106)]+'\x09Logged')[_0x2ae8c9(0x102)]('\x0a'),document['getElementById'](_0x2ae8c9(0x10b))[_0x2ae8c9(0xf9)]=_0x2e7d9a['map'](_0x362d41=>_0x362d41[_0x2ae8c9(0x106)]+'\x09'+_0x362d41[_0x2ae8c9(0xfe)])[_0x2ae8c9(0x102)]('\x0a'),document[_0x2ae8c9(0xfa)]('loggedCount')[_0x2ae8c9(0x108)]=_0x27cfd7['length'],document[_0x2ae8c9(0xfa)]('otherDataCount')[_0x2ae8c9(0x108)]=_0x2e7d9a[_0x2ae8c9(0x112)],document[_0x2ae8c9(0xfa)](_0x2ae8c9(0x113))[_0x2ae8c9(0x108)]=_0x27cfd7[_0x2ae8c9(0x112)],document['getElementById'](_0x2ae8c9(0x110))[_0x2ae8c9(0x108)]=_0x2e7d9a['length'];let _0x14a38=[..._0x27cfd7['map'](_0x310095=>_0x310095[_0x2ae8c9(0x106)]+_0x2ae8c9(0x10a)),..._0x2e7d9a[_0x2ae8c9(0x101)](_0x4e60d1=>_0x4e60d1['column11']+'\x09'+_0x4e60d1[_0x2ae8c9(0xfe)])];document[_0x2ae8c9(0xfa)](_0x2ae8c9(0x109))[_0x2ae8c9(0xf9)]=_0x14a38[_0x2ae8c9(0x102)]('\x0a'),document[_0x2ae8c9(0xfa)]('allResultsCount')['innerText']=_0x14a38[_0x2ae8c9(0x112)],document[_0x2ae8c9(0xfa)](_0x2ae8c9(0x10d))[_0x2ae8c9(0x108)]=_0x14a38[_0x2ae8c9(0x112)];}
+function copySeleniumOutput(outputId) {
+        let outputField = document.getElementById(outputId);
+        outputField.select();
+        document.execCommand('copy');
+    }
+
+    function processSeleniumData() {
+        let input = document.getElementById("seleniumDataInput").value.trim();
+        let lines = input.split("\n");
+        document.getElementById("totalSeleniumLines").innerText = lines.length;
+
+        let loggedData = [];
+        let otherData = [];
+
+        lines.forEach(line => {
+            let columns = line.split("\t");
+            if (columns.length >= 13) {
+                let column11 = columns[10].trim();
+                let column13 = columns[12].trim();
+
+                if (column13.includes("Logged")) {
+                    loggedData.push({ column11, column13 });
+                } else {
+                    otherData.push({ column11, column13 });
+                }
+            }
+        });
+
+        loggedData.sort((a, b) => parseInt(a.column11) - parseInt(b.column11));
+        otherData.sort((a, b) => a.column13.localeCompare(b.column13) || parseInt(a.column11) - parseInt(b.column11));
+
+        document.getElementById("seleniumLoggedOutput").value = loggedData.map(item => item.column11 + "\tLogged").join("\n");
+        document.getElementById("seleniumOtherOutput").value = otherData.map(item => item.column11 + "\t" + item.column13).join("\n");
+
+        document.getElementById("seleniumLoggedCount").innerText = loggedData.length;
+        document.getElementById("seleniumOtherCount").innerText = otherData.length;
+        document.getElementById("seleniumLoggedLines").innerText = loggedData.length;
+        document.getElementById("seleniumOtherLines").innerText = otherData.length;
+
+        // Combine all results
+        let allResults = [...loggedData.map(item => item.column11 + "\tLogged"), ...otherData.map(item => item.column11 + "\t" + item.column13)];
+        document.getElementById("seleniumAllOutput").value = allResults.join("\n");
+        document.getElementById("seleniumAllCount").innerText = allResults.length;
+        document.getElementById("seleniumAllLines").innerText = allResults.length;
+    }
