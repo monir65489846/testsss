@@ -1,5 +1,4 @@
-<script>
-    const input = document.getElementById("inputText1994");
+ const input = document.getElementById("inputText1994");
 
     input.addEventListener("input", () => {
       const text = input.value;
@@ -60,4 +59,3 @@
       }
       return result || "1";
     }
-  </script>
